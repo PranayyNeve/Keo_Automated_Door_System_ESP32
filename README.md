@@ -23,3 +23,7 @@ Servo PWM pin <-> ESP32-cam Pin GPIO12
 
 
 The LED used is the on-board LED which is shorted to the GPIO4 pin.
+
+
+### Drive Link for Video demonstration
+https://drive.google.com/file/d/106w1iOkJQ27XgxsidOaboN1hvg51gtuX/view?usp=sharing
