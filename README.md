@@ -10,3 +10,12 @@ in this case the servo motor (representing the door) is set to open when the obj
 
 And after some delay, the door closes back and ultrasonic sensor stops calculating the distance until next object is detected by the PIR sensor.
 
+
+## Connections
+
+PIR sensor Digital Output <-> ESP32-cam Pin GPIO13
+Ultrasonic Trig Pin <-> ESP32-cam Pin GPIO2
+Ultrasonic Echo Pin <-> ESP32-cam Pin GPIO14
+Servo PWM pin <-> ESP32-cam Pin GPIO12
+
+The LED used is the on-board LED which is shorted to the GPIO4 pin.
