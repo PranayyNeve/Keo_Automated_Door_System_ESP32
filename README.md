@@ -14,8 +14,12 @@ And after some delay, the door closes back and ultrasonic sensor stops calculati
 ## Connections
 
 PIR sensor Digital Output <-> ESP32-cam Pin GPIO13
+
 Ultrasonic Trig Pin <-> ESP32-cam Pin GPIO2
+
 Ultrasonic Echo Pin <-> ESP32-cam Pin GPIO14
+
 Servo PWM pin <-> ESP32-cam Pin GPIO12
+
 
 The LED used is the on-board LED which is shorted to the GPIO4 pin.
